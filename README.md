@@ -1,1 +1,1 @@
-Create a private room to have real time chat with your friends.
+Create a private chat room to have a real time chat with your friends.
